@@ -25,9 +25,7 @@
 ## **🛠️ Tech Stack**  
 
 ### **Programming Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+[![Cpp, Flutter, C](https://skillicons.dev/icons?i=cpp,flutter,c)](https://skillicons.dev)
 
 ### **Frontend Development**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
