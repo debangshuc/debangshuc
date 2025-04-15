@@ -31,7 +31,7 @@
 [![HTML5,CSS3,JavaScript,Flutter](https://skillicons.dev/icons?i=html,css,js,flutter)](https://skillicons.dev)
 
 ### **Backend & Cross-Platform**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 
 ---
 
