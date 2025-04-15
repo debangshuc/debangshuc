@@ -25,7 +25,7 @@
 ## **🛠️ Tech Stack**  
 
 ### **Programming Languages**  
-[![Cpp, Flutter, C](https://skillicons.dev/icons?i=cpp,flutter,c)](https://skillicons.dev)
+[![Cpp, Python, Dart, C](https://skillicons.dev/icons?i=cpp,python,dart,c)](https://skillicons.dev)
 
 ### **Frontend Development**  
 [![HTML5,CSS3,JavaScript,Flutter](https://skillicons.dev/icons?i=html,css,js,flutter)](https://skillicons.dev)
