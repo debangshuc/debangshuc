@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ6eXh2b3l5eG5zY2VtY2h1bG1zZ2Z6dXJ6d2R5eGZ6a3FqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGth6EgJT/giphy.gif" width="600" height="300" alt="Retro Coding GIF"/>
+ <img src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gif" width="600" alt="Retro Computer GIF"/>
 </div>
 
 ---
