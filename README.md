@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5jZ3F4b2V4Y3F0Z3J0eGJ6N2VtZzV5b2VjY2JtY2ZqZzB1eGZ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif](https://www.pinterest.com/pin/programmer-day-porforever--313985405251921509/)" width="600" height="300"/>
+  <img src="https://www.pinterest.com/pin/programmer-day-porforever--313985405251921509/" width="600" height="300"/>
 </div>
 
 ---
