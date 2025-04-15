@@ -50,7 +50,7 @@
 ---
 
 ## **🔥 Recent Activity**  
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=debangshuc&theme=react-dark&random=12345)](https://github.com/debangshuc)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=debangshuc&theme=react-dark&hide_border=true)](https://github.com/debangshuc)
 ---
 
 ### **🎯 Goals for 2025**  
