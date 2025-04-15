@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.pinterest.com/pin/programmer-day-porforever--313985405251921509/" width="600" height="300"/>
+  <img src="https://www.pinterest.com/pin/programmer-day-porforever--313985405251921509" width="600" height="300"/>
 </div>
 
 ---
