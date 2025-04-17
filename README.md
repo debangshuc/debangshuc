@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gif" height= "400" width="600" alt="Retro Computer GIF"/>
+ <img src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gif" height= "300" width="600" alt="Retro Computer GIF"/>
 </div>
 
 ---
