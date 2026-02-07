@@ -9,7 +9,6 @@ I enjoy building practical software systems, understanding how things work under
 ## 🚀 What am I currently working on?
 - Building **machine learning projects** focused on real-world applications
 - Learning **web development** to ship complete websites for deploying and showcasing my ML models
-- Developing projects in **health-tech**, aiming to solve practical problems in healthcare systems
 - Exploring **Generative AI applications for creators**, especially tools for social media and content workflows
 
 ---
